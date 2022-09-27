@@ -15,10 +15,13 @@ Fyrir verkefnið 3 var gerður kassi sem er hægt að spila leikurinn 'Simon Say
 ![insidebox](https://github.com/davidbjar/VESM-Verkefni3-SimonSays/blob/main/insidebox.jpg)
 
 **Fyrir utan kassann:**
-![insidebox](https://github.com/davidbjar/VESM-Verkefni3-SimonSays/blob/main/outsidebox1.jpg)
-![insidebox](https://github.com/davidbjar/VESM-Verkefni3-SimonSays/blob/main/outsidebox2.jpg)
+![outsidebox1](https://github.com/davidbjar/VESM-Verkefni3-SimonSays/blob/main/outsidebox1.jpg)
+![outsidebox2](https://github.com/davidbjar/VESM-Verkefni3-SimonSays/blob/main/outsidebox2.jpg)
 
 **Lóðun/veroborð:**
-![insidebox](https://github.com/davidbjar/VESM-Verkefni3-SimonSays/blob/main/lodun1.jpg)
-![insidebox](https://github.com/davidbjar/VESM-Verkefni3-SimonSays/blob/main/lodun2.jpg)
+![lodun1](https://github.com/davidbjar/VESM-Verkefni3-SimonSays/blob/main/lodun1.jpg)
+![lodun2](https://github.com/davidbjar/VESM-Verkefni3-SimonSays/blob/main/lodun2.jpg)
 
+**Hönnunarteikning**
+
+![kassi](https://github.com/davidbjar/VESM-Verkefni3-SimonSays/blob/main/kassi.svg)
